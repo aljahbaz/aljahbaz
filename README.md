@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Marwan Al-Gharably</h1>
 <h3 align="center">Frontend Developer | Robotics Builder | Cybersecurity Explorer</h3>
 
@@ -5,12 +6,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Student at **STEM Gharbia**
-- 🤖 Vice Head of the Robotics Club  
-- 🌍 Leader of **Resala Tanta Branch** (200+ volunteers)  
-- 🏅 National Awards: *Ideal Student*, *Ideal Volunteer*, and *1st place ARC winner*
+- Student at **STEM Gharbia**
+- Vice Head of the Robotics Club  
+- Leader of **Resala Tanta Branch** (200+ volunteers)  
+- National Awards: *Ideal Student*, *Ideal Volunteer*, and *1st place ARC winner*
 
-- 🌱 I’m currently learning: `Full-Stack Development`, `Reverse Engineering`, `Malware Analysis`
+- Currently learning: `Full-Stack Development`, `Reverse Engineering`, `Malware Analysis`
 
 ---
 
@@ -26,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap"/>
 </p>
 
 ---
