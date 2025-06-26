@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Marwan Al-Gharably</h1>
 <h3 align="center">Frontend Developer | Robotics Builder | Cybersecurity Explorer</h3>
 
@@ -29,6 +28,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap"/>
 </p>
+
+---
+
+## 🧠 Skills & Proficiency (Text Style)
+
+- HTML5 – Advanced  
+- CSS3 – Advanced  
+- JavaScript – Intermediate  
+- React – Intermediate  
+- PHP – Beginner  
+- Python – Intermediate  
+- Bash – Beginner  
+- Bootstrap – Intermediate  
+- Arduino – Intermediate  
+
+---
+
+## 🧠 Skills & Proficiency (Progress Bar Style)
+
+**HTML5** ▰▰▰▰▰▰▰▰▰▰ (Advanced)  
+**CSS3** ▰▰▰▰▰▰▰▰▰▰ (Advanced)  
+**JavaScript** ▰▰▰▰▰▰▰▰▱▱ (Intermediate)  
+**React** ▰▰▰▰▰▰▰▱▱▱ (Intermediate)  
+**PHP** ▰▰▰▱▱▱▱▱▱▱ (Beginner)  
+**Python** ▰▰▰▰▰▰▱▱▱▱ (Intermediate)  
+**Bash** ▰▰▰▱▱▱▱▱▱▱ (Beginner)  
+**Bootstrap** ▰▰▰▰▰▰▰▱▱▱ (Intermediate)  
+**Arduino** ▰▰▰▰▰▰▰▱▱▱ (Intermediate)
 
 ---
 
